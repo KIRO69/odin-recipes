@@ -1,3 +1,3 @@
-In this project, I'm going to build a basic recipe website, to practice all of the HTML knowledge I have acquired.
+This project is a basic recipe website, to practice all of the HTML knowledge I have acquired.
 The website will consist of a main index page which will have links to a few recipes.
 I will revisit it later to style it with css 
